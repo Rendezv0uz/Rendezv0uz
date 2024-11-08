@@ -1,10 +1,14 @@
 <h1 align="center">Hi There! 👋I'm Phu</h1>
+<p align ="center">
+<a href = "https://x.com/sodiumnickellll">Twitter</a>
+  
+</p>
 <h3 align="center">I am a self-taught indie game developer rookie, currently expanding my skills in full-stack development.</h3>
 
 - 🌱 I'm currently studying in Triamudomsuksa - TU86
 - 👀 I'm interested in Javascript, Node.js, Java, C#
 - 🏁 Goal : CEDT
-- 📫 How to reach me **@sodiumnickellll on twitter(Rendezv0uz)**
+- 📫 How to reach me : [@sodiumnickellll](https://x.com/sodiumnickellll) / (Rendezv0uz) on Twitter (I prefer this name)
 - ✨ Fun Fact : I love Furina
 <p align="left">
 </p>
