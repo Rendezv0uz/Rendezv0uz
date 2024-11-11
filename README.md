@@ -9,7 +9,7 @@
 - 👀 I'm interested in Javascript, Node.js, Java, C#
 - 🏁 Goal : CEDT
 - 📫 How to reach me : [@sodiumnickellll](https://x.com/sodiumnickellll) / (Rendezv0uz) on Twitter (I prefer this name)
-- ✨ Fun Fact : I love Furina
+- ✨ Fun Fact : I love Furina, I can type LaTeX
 <p align="left">
 </p>
 
