@@ -8,7 +8,7 @@
 - 🌱 I'm currently studying in Triamudomsuksa - TU86
 - 👀 I'm interested in Javascript, Node.js, Java, C#
 - 🏁 Goal : CEDT
-- 📫 How to reach me : [@sodiumnickellll](https://x.com/rendezvouz7109) / (Rendezv0uz) on Twitter (I prefer this name)
+- 📫 How to reach me : [@rendezvouz7109](https://x.com/rendezvouz7109)/(Rendezv0uz) on Twitter (I prefer this name)
 - ✨ Fun Fact : I love Furina, I can type LaTeX
 <p align="left">
 </p>
