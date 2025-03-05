@@ -6,7 +6,7 @@
 <h3 align="center">I am a self-taught indie game developer rookie, currently expanding my skills in full-stack development.</h3>
 
 - 🌱 I'm currently studying in Triamudomsuksa - TU86
-- 👀 I'm interested in Javascript, Node.js, Java, C#
+- 👀 I'm interested in web-development
 - 🏁 Goal : CEDT
 - 📫 How to reach me : [@rendezvouz7109](https://x.com/rendezvouz7109)/(Rendezv0uz) on Twitter (I prefer this name)
 - ✨ Fun Fact : I love Furina, I can type LaTeX
